@@ -1,0 +1,27 @@
+[submodule "3rdparty/fmt"]
+	path = 3rdparty/fmt
+	url = https://github.com/fmtlib/fmt
+[submodule "3rdparty/LIEF"]
+	path = 3rdparty/LIEF
+	url = https://github.com/lief-project/LIEF
+[submodule "3rdparty/scnlib"]
+	path = 3rdparty/scnlib
+	url = https://github.com/eliaskosunen/scnlib
+[submodule "3rdparty/interval-tree"]
+	path = 3rdparty/interval-tree
+	url = https://github.com/5cript/interval-tree
+[submodule "3rdparty/capstone"]
+	path = 3rdparty/capstone
+	url = https://github.com/capstone-engine/capstone
+[submodule "3rdparty/argparse"]
+	path = 3rdparty/argparse
+	url = https://github.com/p-ranav/argparse
+[submodule "3rdparty/type_safe"]
+	path = 3rdparty/type_safe
+	url = https://github.com/foonathan/type_safe
+[submodule "3rdparty/thread-pool"]
+	path = 3rdparty/thread-pool
+	url = https://github.com/bshoshany/thread-pool
+[submodule "3rdparty/debug_assert"]
+	path = 3rdparty/debug_assert
+	url = https://github.com/foonathan/debug_assert
